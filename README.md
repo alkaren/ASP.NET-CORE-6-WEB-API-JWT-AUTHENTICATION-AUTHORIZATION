@@ -1,6 +1,6 @@
 # BikeStores WEB API JWT AUTHENTICATION AND AUTHORIZATION
 
-![Alt Text](https://github.com/alkaren/EF-CORE-6-ASP.NET-Core-Web-API/blob/main/example.png)
+![Alt Text](https://github.com/alkaren/ASP.NET-CORE-6-WEB-API-JWT-AUTHENTICATION-AUTHORIZATION/blob/main/example.png)
 
 ## See previous project
 <ul>
